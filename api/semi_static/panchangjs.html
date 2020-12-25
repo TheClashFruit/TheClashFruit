@@ -1,7 +1,10 @@
 <script src="https://raw.githubusercontent.com/schenna/panchangJS/master/src/panchang.js"></script>
 <script>
   var t = new Date();
-  document.getElementById("json").innerText = anchang.calculate(t);
+  
+  panchans.calculate(t, function() {
+    document.getElementById("json").innerText = panchans.toString();
+  });
 </script>
 <pre id="json">
 </pre>

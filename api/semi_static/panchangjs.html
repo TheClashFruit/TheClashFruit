@@ -1,12 +1,4 @@
 <script>
-  var t = new Date();
-  
-  panchang.calculate(t, function() {
-    document.getElementById("json").innerText = panchang.toString();
-  });
-</script>
-
-<script>
   /* This is the copy of pcal panchangJS*/
   // Panchang code
   // globals
@@ -858,6 +850,14 @@
       if (cb) { cb();}
   }
   }
+</script>
+
+<script>
+  var t = new Date();
+  
+  panchang.calculate(t, function() {
+    document.getElementById("json").innerText = panchang.toString();
+  });
 </script>
 
 <pre id="json"></pre>

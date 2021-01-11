@@ -1,13 +1,22 @@
 ### Hi there 👋
 
-I'm **TheClashFruit**! I'm a programer. I mostly program desktop apps, android apps and minecraft mods. I would like if you ask me to make you a program or mod.
+Hi I'm **TheClashFruit**, 14 year old "Gamer" and Hobby Programmer. 
+I like to play with building games, make programs and yes build stuff. 
+Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 
-### Project: OpenSource 🎨
+----------
 
-[WebMagic](https://github.com/TheClashFruit/WebMagic)
+**Tools I Use:**
+- Visual Studio Code
+- IntelliJ IDEA
+- Sketchware
+- Android Studio
 
-[About **Project: OpenSource**](https://www.theclashfruit.xyz/pos.php?s=github)
+**Some Links:**
+- [Patreon](https://patreon.com/TheClashFruit) : Support me on Patreon.
+- ~[Website](https://www.theclashfruit.xyz)~ : Not up currently.
+- [Discord](https://discord.gg/nwgmKSfu9W) : Join and have fun.
 
-### Support me 🎈
+----------
 
-[PayPal](https://paypal.me/TheClashFruit) or [Patreon](https://patreon.com/TheClashFruit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark)

@@ -26,3 +26,5 @@ Why are you looking at this, its usless anyway!
 
 ## My Windows Desktop 📌
 <img src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/XBPiuxDBPI.jpg" width="100%">
+
+<p align="center" style="color: #0d1117">ENABLE DARK MODE BRO</p>

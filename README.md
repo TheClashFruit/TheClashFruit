@@ -14,10 +14,10 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 - Sketchware
 - Android Studio
 
-<h1>Statistic 🏅</h1>
+<h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark" align="right">
 
-<p align="right">
-  <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark">
-  <br />
-  <img alt="TheClashFruit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark">
-</p>
+**Currently Active Repositories:**
+- [OpenBlocksTeam/openblocks-app](https://github.com/OpenBlocksTeam/openblocks-app)
+- [OpenBlocksTeam/openblocksteam.github.io](https://github.com/OpenBlocksTeam/openblocksteam.github.io)
+
+----------

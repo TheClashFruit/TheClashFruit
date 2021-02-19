@@ -14,7 +14,7 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 - Sketchware
 - Android Studio
 
-----------
+<h1>Statistic 🏅</h1>
 
 <p align="right">
   <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark">

@@ -22,7 +22,7 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 
 ----------
 
-My statistics are not very high!
+Why are you looking at this, its usless anyway!
 
 ## My Windows Desktop 📌
 <img src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/XBPiuxDBPI.jpg" width="100%">

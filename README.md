@@ -16,5 +16,5 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 
 ----------
 
-![TheClashFruit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark)
 <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark" align="right">
+<img alt="TheClashFruit's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark" align="right">

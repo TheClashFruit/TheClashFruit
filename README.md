@@ -21,3 +21,8 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 - [OpenBlocksTeam/openblocksteam.github.io](https://github.com/OpenBlocksTeam/openblocksteam.github.io)
 
 ----------
+
+My statistics are not very high!
+
+## My Windows Desktop:
+<img src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/XBPiuxDBPI.jpg" width="100%">

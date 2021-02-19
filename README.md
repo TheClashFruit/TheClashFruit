@@ -1,8 +1,10 @@
-### Hi there 👋
+<h1>TheClashFruit ✨</h1> <img src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/logo.png" align="right" height="200px">
 
 Hi I'm **TheClashFruit**, 14 year old "Gamer" and Hobby Programmer. 
 I like to play with building games, make programs and yes build stuff. 
 Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
+
+[Discord](https://discord.gg/nwgmKSfu9W) | [OpenBlocks](https://github.com/OpenBlocksTeam)
 
 ----------
 
@@ -12,11 +14,7 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
 - Sketchware
 - Android Studio
 
-**Some Links:**
-- [Patreon](https://patreon.com/TheClashFruit) : Support me on Patreon.
-- ~[Website](https://www.theclashfruit.xyz)~ : Not up currently.
-- [Discord](https://discord.gg/nwgmKSfu9W) : Join and have fun.
-
 ----------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark)
+![TheClashFruit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheClashFruit&layout=compact&theme=dark)
+<img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark" align="right">

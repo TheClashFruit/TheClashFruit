@@ -2,7 +2,7 @@
 
 Hi I'm **TheClashFruit**, 14 year old "Gamer" and Hobby Programmer. 
 I like to play with building games, make programs and yes build stuff. 
-Im currently a member of [ThatCakeID](https://github.com/ThatCakeID).
+Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founder_ of [OpenBlocks](https://github.com/OpenBlocksTeam).
 
 [Discord](https://discord.gg/nwgmKSfu9W) | [OpenBlocks](https://github.com/OpenBlocksTeam)
 

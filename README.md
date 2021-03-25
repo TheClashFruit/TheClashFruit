@@ -19,10 +19,9 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founde
 **Currently Active Repositories:**
 - [OpenBlocksTeam/openblocks-app](https://github.com/OpenBlocksTeam/openblocks-app)
 - [OpenBlocksTeam/openblocksteam.github.io](https://github.com/OpenBlocksTeam/openblocksteam.github.io)
-
-----------
-
-Why are you looking at this, its usless anyway!
+- waiting for new pulic repos to comit to :sus:
+- waiting for new pulic repos to comit to :sus:
+- waiting for new pulic repos to comit to :sus:
 
 ----------
 

@@ -14,7 +14,7 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founde
 - ~Sketchware~ - **stopped using it**
 - Android Studio
 
-<h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&theme=dark" align="right">
+<h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
 **Currently Active Repositories:**
 - [OpenBlocksTeam/openblocks-app](https://github.com/OpenBlocksTeam/openblocks-app)

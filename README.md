@@ -16,6 +16,23 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founde
 - ~~GutHib - WHAT??! :O~~
 - Android Studio
 
+**Languages I know:**
+- HTML
+- CSS
+- JavaScript
+- Java
+- XML
+- .png - WHO RLY PUT THIS HERE?
+- .jpg - FOR SURE!! WHO?
+
+**Languages I want to learn:**
+- TypeScript
+- Brainf?ck - idk
+- C
+- C++
+- C# - I know a bit, but I want to learn more.
+- More English - hehe
+
 <h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right"> <!-- hehe, this is from ryenyuku -->
 
 **Currently Active Repositories:**

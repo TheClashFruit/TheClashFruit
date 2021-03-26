@@ -3,8 +3,10 @@
 Hi I'm **TheClashFruit**, and I'm 14 year old guy who likes computers. _What did you think?_
 Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founder_ of [OpenBlocks](https://github.com/OpenBlocksTeam).
 
-> Some Links:
-> ~~[Discord](https://discord.gg/nwgmKSfu9W)~~, [OpenBlocks](https://github.com/OpenBlocksTeam)
+![GitHub last commit](https://img.shields.io/github/last-commit/TheClashFruit/TheClashFruit?label=last%20readme%20update&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/TheClashFruit?style=for-the-badge)
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/TheClashFruit?style=for-the-badge)](https://liberapay.com/TheClashFruit)
+
 
 ----------
 

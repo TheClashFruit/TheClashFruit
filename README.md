@@ -24,8 +24,6 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founde
 - JavaScript
 - Java
 - XML
-- .png - WHO RLY PUT THIS HERE?
-- .jpg - FOR SURE!! WHO?
 
 **Languages I want to learn:**
 - TypeScript

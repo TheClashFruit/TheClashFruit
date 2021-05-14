@@ -3,7 +3,7 @@
 
 <p align="center">
   <img alt="TheClashFruit's Logo" src="https://avatars.githubusercontent.com/u/55049569?s=400&u=08ce4269c508d7b2a698c7ee894ba2dd3139c7d5&v=4" height="150px" width="150px">
-  <h1 align="center">✨ TheClashFruit ✨</h1>
+  <h1 align="center">⚡ TheClashFruit ⚡</h1>
 </p>
 
 <p align="center" id="badges">

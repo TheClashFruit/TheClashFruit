@@ -35,7 +35,7 @@ Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founde
 - C# - I know a bit, but I want to learn more.
 - More English - hehe
 
-<h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right"> <!-- hehe, this is from ryenyuku -->
+<h1>Statistic 🏅</h1> <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&count_private=true&bg_color=00000000&text_color=00796b&icon_color=00796b&title_color=00796b" align="right"> <!-- hehe, this is from ryenyuku -->
 
 **Currently Active Repositories:**
 - [OpenBlocksTeam/openblocks-app](https://github.com/OpenBlocksTeam/openblocks-app)

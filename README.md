@@ -1,4 +1,6 @@
-<h1>TheClashFruit ✨</h1> <img src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/logo.png" align="right" height="200px">
+# TheClashFruit ✨
+
+<img src="https://avatars.githubusercontent.com/u/55049569?s=400&u=08ce4269c508d7b2a698c7ee894ba2dd3139c7d5&v=4" align="right" height="200px" width="200px">
 
 Hi I'm **TheClashFruit**, and I'm 14 year old guy who likes computers. _What did you think?_
 Im currently a member of [ThatCakeID](https://github.com/ThatCakeID) and _founder_ of [OpenBlocks](https://github.com/OpenBlocksTeam).

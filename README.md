@@ -5,6 +5,7 @@
 
 <p align="center" id="badges">
   <a href="https://www.theclashfruit.ga"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.theclashfruit.ga"></a>
+  <a href="https://liberapay.com/TheClashFruit"><img src="https://img.shields.io/liberapay/receives/TheClashFruit.svg?style=for-the-badge"></a>
 </p>
 
 <p align="center" width="30%">

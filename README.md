@@ -12,11 +12,22 @@
   <img alt="Discord" src="https://img.shields.io/discord/852874519684186113?style=for-the-badge">
 </p>
 
-<h1></h1>
-
 <p>
   Hello! I'm TheClashFruit, I make a lot of stuff like discord bots, android applications, games, websites, and a lot more!
+  
+  _On the internet since 2014, originaly known as... Sorry, im not going to say it due to privacy. 🙂_ <br />
+  _Known as "**Clash Fruit**" since 2017._
 </p>
+
+<h2>Contact & Social</h2>
+<ul>
+  <li><a href="https://twitter.com/TheClashFruit">Twitter</a></li>
+  <li><a href="https://discord.gg/CWEApqJ6rc">Discord</a></li>
+  <li><a href="https://twitch.tv/TheClashFruit">Twitch</a></li>
+  <li><a href="https://web.sketchub.in/u/TheClashFruit">Sketchub</a></li>
+</ul>
+
+<h2>Statistics</h2>
 
 <p>
   <img alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">

@@ -8,8 +8,7 @@
   <a href="https://liberapay.com/TheClashFruit"><img src="https://img.shields.io/liberapay/receives/TheClashFruit.svg?style=for-the-badge"></a>
 </p>
 
-<br />
-<br />
+<h1></h1>
 
 <p>
   Hello! I'm TheClashFruit, I make a lot of stuff like discord bots, android applications, games, websites, and a lot more!

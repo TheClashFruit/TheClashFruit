@@ -8,6 +8,8 @@
   <a href="https://liberapay.com/TheClashFruit"><img src="https://img.shields.io/liberapay/receives/TheClashFruit.svg?style=for-the-badge"></a>
 </p>
 
+<br />
+
 <h1></h1>
 
 <p>

@@ -6,6 +6,7 @@
 <p id="badges">
   <a href="https://www.theclashfruit.ga"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.theclashfruit.ga"></a>
   <a href="https://liberapay.com/TheClashFruit"><img src="https://img.shields.io/liberapay/receives/TheClashFruit.svg?style=for-the-badge"></a>
+  <img alt="Discord" src="https://img.shields.io/discord/852874519684186113?style=for-the-badge">
 </p>
 
 <br />

@@ -29,6 +29,7 @@
   <li>VisualBasic</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Some Kotlin</li>
   <li>And still learning more!</li>
 </ul>
 

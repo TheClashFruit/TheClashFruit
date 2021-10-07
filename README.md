@@ -1,5 +1,5 @@
 <p>
-  <img align="left" alt="TheClashFruit's Logo" src="https://theclashfruit.ga/favicon.ico" height="150px" width="150px">
+  <img align="left" alt="TheClashFruit's Logo" src="https://www.theclashfruit.ga/wp-content/uploads/2021/10/favicon.png" height="150px" width="150px">
   <h1>TheClashFruit</h1>
 </p>
 

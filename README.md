@@ -17,8 +17,10 @@
   
   Mostly doing web development, but I like to make games too!
   
+  <!--
   _On the internet since 2014, originaly known as... Sorry, im not going to say it due to privacy. 🙂_ <br />
   _Known as "**Clash Fruit**" since 2017._
+  -->
 </p>
 
 <h2>Languages</h2>

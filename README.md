@@ -36,6 +36,14 @@
   <li>And still learning more!</li>
 </ul>
 
+<h2>Tools</h2>
+<ul>
+  <li>VS Code</li>
+  <li>IntelliJ IDEA</li>
+  <li>Android Studio</li>
+  <li>vim (hehe)</li>
+</ul>
+
 <h2>Contact & Social</h2>
 <ul>
   <li><a href="https://twitter.com/TheClashFruit">Twitter</a></li>

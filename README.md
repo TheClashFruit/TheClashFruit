@@ -14,6 +14,10 @@
 <br />
 
 <p>
+  Note: <b>Moved to <a href="https://gitlab.com/TheClashFruit">GitLab</a></b>!
+</p>
+
+<p>
   Hello! I'm TheClashFruit, I make a lot of stuff like discord bots, android applications, games, websites, and a lot more!
   
   Mostly doing web development, but I like to make games too!

@@ -14,7 +14,7 @@
 <br />
 
 <p>
-  Note: <b>Moved to <a href="https://gitlab.com/TheClashFruit">GitLab</a></b>!
+  Note: <b>Moved to <a href="https://gitlab.com/TheClashFruit">GitLab</a> with some projects, i might use GitHub sometimes</b>!
 </p>
 
 <p>

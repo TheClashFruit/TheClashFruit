@@ -14,7 +14,7 @@
 <br />
 
 <p>
-  Note: <b>Moved back to Github, because they acceped my student pack application. <img aria-label=":trolley:" style="height: 1em;" src="https://cdn.discordapp.com/emojis/902765596075253820.webp?size=44&amp;quality=lossless" alt=":trolley:" draggable="false" class="emoji" data-type="emoji" data-id="902765596075253820">!
+  Note: <b>Moved back to Github, because they acceped my student pack application. <img aria-label=":trolley:" style="height: 1em;" src="https://cdn.discordapp.com/emojis/902765596075253820.webp?size=44&amp;quality=lossless" alt=":trolley:" draggable="false" class="emoji" data-type="emoji" data-id="902765596075253820">
 </p>
 
 <p>

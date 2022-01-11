@@ -58,13 +58,12 @@
 
 <h2>Statistics</h2>
 
-<p align="center">
-  <img align="center" alt="TheClashFruit's GitHub Stats" width="47.9%" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
-</p>
+<img align="left" alt="TheClashFruit's GitHub Stats" width="47.9%" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
 
-<p align="center">
-  <img align="center" style="margin-top: 4px;" width="47.9%" alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
-</p>
+<img align="right" style="margin-top: 4px;" width="47.9%" alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
+
+<!--
 <p align="center">
   Copyright &copy; 2017-2021 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
+-->

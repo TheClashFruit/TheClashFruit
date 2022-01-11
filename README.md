@@ -11,15 +11,11 @@
 </p>
 
 <br />
-<br />
 
-<p>
-  Note: <b>Moved back to Github, because they acceped my student pack application. <img aria-label=":trolley:" style="height: 1em;" src="https://cdn.discordapp.com/emojis/902765596075253820.webp?size=44&amp;quality=lossless" alt=":trolley:" draggable="false" class="emoji" data-type="emoji" data-id="902765596075253820"></b>
-</p>
-
-<p>
+<p align="center">
   Hello! I'm TheClashFruit, I make a lot of stuff like discord bots, android applications, games, websites, and a lot more!
-  
+</p>
+<p align="center">
   Mostly doing web development, but I like to make games too!
   
   <!--

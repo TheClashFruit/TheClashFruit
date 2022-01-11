@@ -58,21 +58,16 @@
 
 <h2>Statistics</h2>
 
-<img align="right" alt="TheClashFruit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
+<img align="right" alt="TheClashFruit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
+
+<img align="right" style="margin-top: 4px;" alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
 
 <p align="left">
   <b>Active Repos:</b>
   <ul>
-    <li><a href="https://github.com/TheClashFruit/Kvantum">TheClashFruit/Kvantum</a></li>
-    <li><a href="https://github.com/Blokkok/blokkok">Blokkok/blokkok</a></li>
-    <li><a href="https://github.com/TheClashFruit/kvantumse">TheClashFruit/kvantumse</a></li>
-    <li><a href="https://github.com/TheClashFruit/theclashfruit.github.io">TheClashFruit/theclashfruit.github.io</a></li>
+    <li><a href="https://github.com/WoidIDE/WoidAndroid">WoidIDE/WoidAndroid</a></li>
   </ul>
 </p>
-
-<br />
-<br />
-<br />
 
 <p align="center">
   Copyright &copy; 2017-2021 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>

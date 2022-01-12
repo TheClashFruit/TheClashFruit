@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  Copyright &copy; 2017-2021 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
+  Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>

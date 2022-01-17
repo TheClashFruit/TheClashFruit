@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="TheClashFruit's Logo" src="https://cdn.theclashfruit.ga/favicon.ico" height="150px" width="150px">
+  <img align="center" alt="TheClashFruit's Logo" src="https://theclashfruit.me/favicon.ico" height="150px" width="150px">
   <h1 align="center">TheClashFruit</h1>
 </p>
 

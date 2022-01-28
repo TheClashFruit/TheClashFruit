@@ -59,6 +59,9 @@
   <img align="center" alt="TheClashFruit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
 </p>
 <p align="center">
+  <img align="center" alt="TheClashFruit's GitHub Stats 2" src="https://github-readme-streak-stats.herokuapp.com?user=TheClashFruit&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=00796B00&ring=00796B&currStreakLabel=00796B&fire=00796B&stroke=00796B&dates=00796B&currStreakNum=00796B&sideNums=00796B&sideLabels=00796B&border=00796B">
+</p>
+<p align="center">
   <img align="center" style="margin-top: 4px;" alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">
 </p>
 

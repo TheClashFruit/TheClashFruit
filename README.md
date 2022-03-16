@@ -69,3 +69,6 @@
 <p align="left">
   Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
+
+
+![](https://hit.yhype.me/github/profile?user_id=55049569)

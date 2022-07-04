@@ -71,5 +71,15 @@
   Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
 
+<svg fill="none" viewBox="0 0 1000 1000" width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <h1>iframe test</h1>
+
+            <iframe src="https://theclashfruit.me/" width="600px" height="600px"></iframe>
+        </div>
+    </foreignObject>
+</svg>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=55049569)

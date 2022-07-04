@@ -72,6 +72,9 @@
 </p>
 
 <img src="https://cdn.theclashfruit.me/readme.svg">
+<!--
+https://discord.c99.nl/widget/theme-4/394888268446957569.png
+-->
 
 
 ![](https://hit.yhype.me/github/profile?user_id=55049569)

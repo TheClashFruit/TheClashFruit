@@ -7,7 +7,6 @@
   <a href="https://www.theclashfruit.ga"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.theclashfruit.ga"></a>
   <a href="https://discord.gg/CWEApqJ6rc"><img alt="Discord" src="https://img.shields.io/discord/852874519684186113"></a>
   <a href="https://wakatime.com/@c6bc8514-d33b-4828-b814-99e3b1ee38a2"><img src="https://wakatime.com/badge/user/c6bc8514-d33b-4828-b814-99e3b1ee38a2.svg" alt="Total time coded since Nov 7 2021" /></a>
-  <a href="https://liberapay.com/TheClashFruit"><img src="https://img.shields.io/liberapay/receives/TheClashFruit.svg"></a>
   <img src="https://komarev.com/ghpvc/?username=TheClashFruit">
 </p>
 
@@ -67,14 +66,11 @@
   <img alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3&layout=compact">
 </p>
 
-<p align="left">
+<p align="center">
+  <a href="https://ko-fi.com/B0B4E6NHU"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</p>
+<p align="center">
   Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
-
-<img src="https://cdn.theclashfruit.me/readme.svg">
-<!--
-https://discord.c99.nl/widget/theme-4/394888268446957569.png
--->
-
 
 ![](https://hit.yhype.me/github/profile?user_id=55049569)

@@ -11,18 +11,10 @@
 </p>
 
 <p align="left">
-  Hello! I'm TheClashFruit, I make a lot of stuff like discord bots, android applications, games, websites, and a lot more!
+  I'm a software developer in my free time and student living in Hungary, I like to make android apps, websites, discord bots. I'm good in Kotlin, Java, JavaScript, HTML and CSS but I know some Rust, Python and I can write hello world in C++;
 </p>
-<p align="left">
-  Mostly doing web development, but I like to make games too!
-  
-  <!--
-  _On the internet since 2014, originaly known as... Sorry, im not going to say it due to privacy. 🙂_ <br />
-  _Known as "**Clash Fruit**" since 2017._
-  -->
-</p>
-<p align="left">
-  I like JavaScript stuff, I have been using JavaScript since I got into programming, I also do Java too!
+<p>
+  Currently working on <a href="https://zleed.ga">Zleed</a>!
 </p>
 <!--
 <h2>Languages</h2>

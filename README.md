@@ -14,7 +14,7 @@
   I'm a software developer in my free time and student living in Hungary, I like to make android apps, websites, discord bots. I'm good in Kotlin, Java, JavaScript, HTML and CSS but I know some Rust, Python and I can write hello world in C++;
 </p>
 <p>
-  Currently working on <a href="https://zleed.ga">Zleed</a>!
+  Currently working on <a href="https://zleed.ga">Zleed</a> and Rithle!
 </p>
 <!--
 <h2>Languages</h2>

@@ -22,16 +22,6 @@
   Currently working on <a href="https://zleed.ga">Zleed</a> and <a href="https://github.com/TheClashFruit/Rithle/tree/0.2.0-dev">Rithle</a>!
 </p>
 
-<h3>Languages</h3>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Java</li>
-  <li>Kotlin</li>
-  <li>Rust</li>
-  <li>C#</li>
-</ul>
-
 <h3>Tools</h3>
 <ul>
   <li>All IntelliJ IDEs</li>

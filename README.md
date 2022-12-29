@@ -22,20 +22,6 @@
   Currently working on <a href="https://zleed.ga">Zleed</a> and <a href="https://github.com/TheClashFruit/Rithle/tree/0.2.0-dev">Rithle</a>!
 </p>
 
-<h3>Tools</h3>
-<ul>
-  <li>All IntelliJ IDEs</li>
-  <li>Android Studio</li>
-</ul>
-
-<h3>Contact & Social</h3>
-<ul>
-  <li><a href="https://twitter.com/TheClashFruit">Twitter</a></li>
-  <li><a href="https://discord.gg/CWEApqJ6rc">Discord</a></li>
-  <li><a href="https://twitch.tv/TheClashFruit">Twitch</a></li>
-  <li><a href="https://web.sketchub.in/u/TheClashFruit">Sketchub</a></li>
-</ul>
-
 <h3>Stats</h3>
 <p>
   <img alt="TheClashFruit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">

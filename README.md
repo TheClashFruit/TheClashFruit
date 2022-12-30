@@ -22,6 +22,8 @@
   Currently working on <a href="https://zleed.ga">Zleed</a> and <a href="https://github.com/TheClashFruit/Rithle/tree/0.2.0-dev">Rithle</a>!
 </p>
 
+what to put here
+
 <h3>Stats</h3>
 <p>
   <img alt="TheClashFruit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3">

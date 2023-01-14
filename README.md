@@ -44,4 +44,5 @@ what to put here
   Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=55049569)
+<img referrerpolicy="no-referrer-when-downgrade" src="https://matomo.theclashfruit.me/matomo.php?idsite=4&amp;rec=1" style="border:0" alt="" />
+<img referrerpolicy="no-referrer-when-downgrade" src="https://hit.yhype.me/github/profile?user_id=55049569" style="border:0" alt="" />

@@ -41,7 +41,7 @@ what to put here
   <a href="https://ko-fi.com/B0B4E6NHU"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>
 <p align="center">
-  Copyright &copy; 2017-2022 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
+  Copyright &copy; 2017-2023 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://matomo.theclashfruit.me/matomo.php?idsite=4&amp;rec=1" style="border:0" alt="" />

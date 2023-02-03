@@ -1,5 +1,6 @@
+<img alt="TheClashFruit's Logo" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub%20-%20Banner.png">
+
 <p align="center">
-  <img alt="TheClashFruit's Logo" src="https://theclashfruit.me/img/logo.png" height="150px" width="150px">
   <h1 align="center">TheClashFruit</h1>
 </p>
 

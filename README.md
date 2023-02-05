@@ -19,11 +19,33 @@
 <p align="left">
   I'm a software developer in my free time and student living in Hungary, I like to make android apps, websites, discord bots. I'm good in Kotlin, Java, JavaScript, HTML and CSS but I know some Rust, Python and I can write hello world in C++;
 </p>
-<p>
-  Currently working on <a href="https://zleed.ga">Zleed</a> and <a href="https://github.com/TheClashFruit/Rithle/tree/0.2.0-dev">Rithle</a>!
-</p>
 
-what to put here
+<h3>Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Icon</th>
+      <th>Name</th>
+      <th>About</th>
+      <th>Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img width="48px" height="48px" src="https://cdn.theclashfruit.me/images/meteor_icon.svg"></td>
+      <td>Meteor</td>
+      <td>An Android Launcher.</td>
+      <td><a href="https://github.com/TheClashFruit/MeteorLauncher">TheClashFruit/MeteorLauncher</a></td>
+    </tr>
+    <tr>
+      <td><img width="48px" height="48px" src="https://cdn.theclashfruit.me/images/rithle_logo.svg"></td>
+      <td>Rithle</td>
+      <td>Android app for Modrinth written in Kotlin.</td>
+      <td><a href="https://github.com/TheClashFruit/Rithle">TheClashFruit/Rithle</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3>Stats</h3>
 <p>

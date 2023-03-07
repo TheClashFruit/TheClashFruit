@@ -6,7 +6,7 @@
 
 <p id="badges" align="center">
   <a href="https://www.theclashfruit.me"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.theclashfruit.me"></a>
-  <a href="https://discord.gg/CWEApqJ6rc"><img alt="Discord" src="https://img.shields.io/discord/852874519684186113?label=discord"></a>
+  <a href="https://l.theclashfruit.me/discor"><img alt="Discord" src="https://img.shields.io/discord/852874519684186113?label=discord"></a>
   <a href="https://wakatime.com/@c6bc8514-d33b-4828-b814-99e3b1ee38a2"><img src="https://wakatime.com/badge/user/c6bc8514-d33b-4828-b814-99e3b1ee38a2.svg" alt="Total time coded since Nov 7 2021" /></a>
   <img src="https://komarev.com/ghpvc/?username=TheClashFruit&label=views">
 </p>

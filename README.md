@@ -4,6 +4,12 @@
   <h1 align="center">TheClashFruit</h1>
 </p>
 
+<p align="center">
+  A new and improved readme coming soon.
+</p>
+
+<!--
+
 <p id="badges" align="center">
   <a href="https://www.theclashfruit.me"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.theclashfruit.me"></a>
   <a href="https://l.theclashfruit.me/discord"><img alt="Discord" src="https://img.shields.io/discord/852874519684186113?label=discord"></a>
@@ -59,6 +65,7 @@
 <p>
   <img alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3&layout=compact">
 </p>
+-->
 
 <p align="center">
   <a href="https://ko-fi.com/B0B4E6NHU"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>

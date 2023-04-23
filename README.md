@@ -10,8 +10,8 @@
 
 <h2 align="center">Support Me</h3>
 <p align="center">
-  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="74px"></a>
-  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="74px"></a>
+  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="32px"></a>
+  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="32px"></a>
 </p>
 
 <!--

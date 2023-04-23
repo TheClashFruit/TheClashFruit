@@ -4,20 +4,8 @@
   <h1 align="center">TheClashFruit</h1>
 </p>
 
-<p id="badges" align="center">
-  <img alt="Discord" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Discord.png" height="48px">
-  <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Youtube.png" height="48px">
-  <img alt="Twitch" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Twitch.png" height="48px">
-</p>
-
 <p align="center">
   A new and improved readme coming soon.
-</p>
-
-<h2 align="center">Support Me</h3>
-<p align="center">
-  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="48px"></a>
-  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="48px"></a>
 </p>
 
 <!--
@@ -78,6 +66,16 @@
   <img alt="TheClashFruit's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=007769b3&icon_color=00796b&title_color=00796b&border_color=007769b3&layout=compact">
 </p>
 -->
+
+<h3 align="center">Socials & Support Me</h3>
+
+<p align="center">
+  <a href="https://discord.gg/CWEApqJ6rc"><img alt="Discord" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Discord.png" height="48px"></a>
+  <a href="https://youtube.com/@TheClashFruit"><img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Youtube.png" height="48px"></a>
+  <a href="https://twitch.tv/TheClashFruit"><img alt="Twitch" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Twitch.png" height="48px"></a>
+  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="48px"></a>
+  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="48px"></a>
+</p>
 
 <p align="center">
   Copyright &copy; 2017-2023 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>

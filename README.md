@@ -4,14 +4,20 @@
   <h1 align="center">TheClashFruit</h1>
 </p>
 
+<p id="badges" align="center">
+  <img alt="Discord" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Discord.png" height="48px">
+  <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Youtube.png" height="48px">
+  <img alt="Twitch" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Twitch.png" height="48px">
+</p>
+
 <p align="center">
   A new and improved readme coming soon.
 </p>
 
 <h2 align="center">Support Me</h3>
 <p align="center">
-  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="64px"></a>
-  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="64px"></a>
+  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="48px"></a>
+  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="48px"></a>
 </p>
 
 <!--

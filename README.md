@@ -8,6 +8,12 @@
   A new and improved readme coming soon.
 </p>
 
+<h2 align="center">Support Me</h3>
+<p align="center">
+  <a href="https://github.com/sponsors/TheClashFruit"><img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/GitHub.png" height="80px"></a>
+  <a href="https://ko-fi.com/TheClashFruit"><img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/Ko-Fi.png" height="80px"></a>
+</p>
+
 <!--
 
 <p id="badges" align="center">
@@ -67,9 +73,6 @@
 </p>
 -->
 
-<p align="center">
-  <a href="https://ko-fi.com/B0B4E6NHU"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-</p>
 <p align="center">
   Copyright &copy; 2017-2023 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>

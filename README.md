@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Hoby programmer, Linux 🐧 user, hates Windows yet still has one windows computer still... Self hosts a lot of crap, email, gitea, etc. Also too much of a tech enjoyer with 3 servers, a home server and two vpses. Oh look some neo fetches:
+  Hoby programmer, Linux 🐧 user, hates Windows yet still has one windows computer still... Self hosts a lot of crap, email, gitea, etc. Also too much of a tech enjoyer with 3 servers, a home server and two vpses. Oh look some neofetches:
 </p>
 
 <pre>

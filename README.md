@@ -71,7 +71,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   GPU: 00:01.0 Red Hat, Inc. Virtio GPU
             .-/+oossssoo+/-.
 </pre>
 
-and the outliar:
+and the outlier:
 
 <pre>
                                 ..,   TheClashFruit@DESKTOP-RLKBE55

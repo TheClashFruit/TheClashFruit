@@ -4,9 +4,96 @@
   <h1 align="center">TheClashFruit</h1>
 </p>
 
-<p align="center">
-  Hoby programmer, Linux 🐧 user, hates Windows yet still has one windows computer still... Self hosts a lot of crap, email, gitea, etc.
+<p>
+  Hoby programmer, Linux 🐧 user, hates Windows yet still has one windows computer still... Self hosts a lot of crap, email, gitea, etc. Also too much of a tech enjoyer with 3 servers, a home server and two vpses. Oh look some neo fetches:
 </p>
+
+<pre>
+       _,met$$$$$gg.          tcf@homie
+    ,g$$$$$$$$$$$$$$$P.       ---------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64
+ ,$$P'              `$$$.     Kernel: 5.10.0-21-amd64
+',$$P       ,ggs.     `$$b:   Uptime: 4 days, 4 hours, 36 mins
+`d$$'     ,$P"'   .    $$$    Packages: 651 (dpkg)
+ $$P      d$'     ,    $$P    Shell: bash 5.1.4
+ $$:      $$.   -    ,d$$'    Terminal: /dev/pts/0
+ $$;      Y$b._   _,d$P'      CPU: AMD Ryzen 3 3200G (4) @ 3.600GHz
+ Y$$.    `.`"Y$$$$P"'         GPU: AMD ATI 07:00.0 Picasso
+ `$$b      "-.__              Memory: 8232MiB / 13977MiB
+  `Y$$
+   `Y$$.
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
+</pre>
+
+<pre>
+       _,met$$$$$gg.          tcf@theclashfruit.me
+    ,g$$$$$$$$$$$$$$$P.       --------------------
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 11 (bullseye) x86_64
+ ,$$P'              `$$$.     Host: KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
+',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-8-amd64
+`d$$'     ,$P"'   .    $$$    Uptime: 138 days, 2 hours, 49 mins
+ $$P      d$'     ,    $$P    Packages: 1424 (dpkg)
+ $$:      $$.   -    ,d$$'    Shell: bash 5.1.4
+ $$;      Y$b._   _,d$P'      Resolution: 1024x768
+ Y$$.    `.`"Y$$$$P"'         Terminal: /dev/pts/1
+ `$$b      "-.__              CPU: QEMU Virtual version 2.5+ (2) @ 2.899GHz
+  `Y$$                        GPU: 00:02.0 Cirrus Logic GD 5446
+   `Y$$.                      Memory: 1041MiB / 3931MiB
+     `$$b.
+       `Y$$b.
+          `"Y$b._
+              `"""
+</pre>
+
+<pre>
+            .-/+oossssoo+/-.               root@instance-20221114-1627 
+        `:+ssssssssssssssssss+:`           --------------------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.2 LTS aarch64 
+    .ossssssssssssssssssdMMMNysssso.       Host: KVM Virtual Machine virt-4.2 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-1029-oracle 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 71 days, 23 hours, 30 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1364 (dpkg), 6 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1024x768 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: (4) 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   GPU: 00:01.0 Red Hat, Inc. Virtio GPU 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Memory: 5663MiB / 23988MiB 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/                            
+  +sssssssssdmydMMMMMMMMddddyssssssss+                             
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+</pre>
+
+and the outliar:
+
+<pre>
+                                ..,   TheClashFruit@DESKTOP-RLKBE55
+                    ....,,:;+ccllll   -----------------------------
+      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
+,cclllllllllll  lllllllllllllllllll   Host: ASUS
+llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19044
+llllllllllllll  lllllllllllllllllll   Uptime: 4 days, 6 hours, 53 mins
+llllllllllllll  lllllllllllllllllll   Packages: 5 (scoop)
+llllllllllllll  lllllllllllllllllll   Shell: bash 4.4.23
+llllllllllllll  lllllllllllllllllll   Resolution: 1920x1080, 1920x1080
+                                      DE: Aero
+llllllllllllll  lllllllllllllllllll   WM: Explorer
+llllllllllllll  lllllllllllllllllll   WM Theme: Custom
+llllllllllllll  lllllllllllllllllll   Terminal: Windows Terminal
+llllllllllllll  lllllllllllllllllll   CPU: AMD Ryzen 7 5700X (16) @ 3.400GHz
+llllllllllllll  lllllllllllllllllll   GPU: NVIDIA GeForce RTX 3050
+`'ccllllllllll  lllllllllllllllllll   Memory: 13728MiB / 32654MiB
+       `' \*::  :ccllllllllllllllll
+                       ````''*::cll
+                                 ``
+</pre>
 
 <p>
   check out my stats:

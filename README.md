@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <b>Note:</b> I might not seem active, but I'm just over at https://git.theclashfruit.me/TheClashFruit not here :P
+  <b>Note:</b> I might not seem active, but I'm just over at https://git.theclashfruit.me/TheClashFruit not here :P I only use GitHub for contributing to projects and for the few projects I haven't moved over yet.
 </p>
 
 <p>

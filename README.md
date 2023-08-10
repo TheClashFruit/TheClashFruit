@@ -5,6 +5,10 @@
 </p>
 
 <p>
+  <b>Note:</b> I might not seem active, but I'm just over at https://git.theclashfruit.me/TheClashFruit not here :P
+</p>
+
+<p>
   Hoby programmer, Linux 🐧 user, hates Windows yet still has one windows computer still... Self hosts a lot of crap, email, gitea, etc. Also too much of a tech enjoyer with 3 servers, a home server and two vpses.
 </p>
 

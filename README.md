@@ -28,3 +28,10 @@
 <p align="center">
   Copyright &copy; 2017-2023 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
+
+<p align="center">
+  <a href="https://modrinth.com/resourcepack/pridepack">Download Gay Minecraft</a> <br>
+  I was forced to promote it: <br>
+
+  <img align="center" alt="forced.png" src="https://github.com/TheClashFruit/TheClashFruit/assets/55049569/3a56f494-4e13-42d4-a1b5-64723c787c7f">
+</p>

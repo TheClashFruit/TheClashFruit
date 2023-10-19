@@ -11,6 +11,9 @@
   <a href="https://youtube.com/@TheClashFruit">
     <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/YouTube%20-%20Circle.svg" height="48px">
   </a>
+  <a href="https://mas.to/@TheClashFruit" rel="me">
+    <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Mastodon%20-%20Circle.svg" height="48px">
+  </a>
   <a href="https://twitch.tv/TheClashFruit">
     <img alt="Twitch" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Twitch%20-%20Circle.svg" height="48px">
   </a>

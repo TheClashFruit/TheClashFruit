@@ -1,5 +1,13 @@
 <h1 align="center">TheClashFruit</h1>
 
+<p align="center">
+  <a href="https://theclashfruit.me">Website</a> | <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a>
+</p>
+
+<p align="center">
+  A student who's learning software development.
+</p>
+
 <h2 align="center">Stats</h2>
 
 <p align="center">

@@ -3,8 +3,8 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=[reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage]&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=8&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
+  <img alt="GitHub Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=[reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage]&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
+  <img alt="Wakatime Stats" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=9&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
 </p>
 
 <h2 align="center">Socials & Support Me</h2>

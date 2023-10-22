@@ -51,3 +51,5 @@
 
   <img align="center" alt="forced.png" src="https://github.com/TheClashFruit/TheClashFruit/assets/55049569/3a56f494-4e13-42d4-a1b5-64723c787c7f">
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=55049569)

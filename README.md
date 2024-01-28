@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  Copyright &copy; 2017-2023 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
+  Copyright &copy; 2017-2024 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
 </p>
 
 <p align="center">

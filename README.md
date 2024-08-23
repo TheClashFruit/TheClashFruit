@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,rider,phpstorm,clion" />
+  <img src="https://skillicons.dev/icons?i=space,space,vscode,androidstudio,idea,rider,phpstorm,clion,space,space" />
 </p>
 
 <h2 align="center">Stats</h2>

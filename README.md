@@ -8,6 +8,14 @@
   A student who's learning software development.
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,cs,rust,java,kotlin,php,lua" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,rider,phpstorm,clion" />
+</p>
+
 <h2 align="center">Stats</h2>
 
 <p align="center">

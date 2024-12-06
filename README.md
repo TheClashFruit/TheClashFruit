@@ -23,34 +23,37 @@
   <img width="47%" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
 </p>
 
-<h2 align="center">Socials & Support Me</h2>
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="https://discord.gg/CWEApqJ6rc">
     <img alt="Discord" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Discord%20-%20Circle.svg" height="48px">
   </a>
+  <a href="https://wetdry.world/@TheClashFruit" rel="me">
+    <img alt="Mastodon" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Mastodon%20-%20Circle.svg" height="48px">
+  </a>
+  <a href="https://bsky.app/profile/theclashfruit.me" rel="me">
+    <img alt="Bluesky" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Bsky%20-%20Circle.svg" height="48px">
+  </a>
   <a href="https://youtube.com/@TheClashFruit">
     <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/YouTube%20-%20Circle.svg" height="48px">
-  </a>
-  <a href="https://wetdry.world/@TheClashFruit" rel="me">
-    <img alt="YouTube" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Mastodon%20-%20Circle.svg" height="48px">
   </a>
   <a href="https://twitch.tv/TheClashFruit">
     <img alt="Twitch" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Twitch%20-%20Circle.svg" height="48px">
   </a>
+  <!--
   <a href="https://zleed.tv/@TheClashFruit">
     <img alt="Zleed" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Zleed%20-%20Circle.svg" height="48px">
   </a>
-  <a href="https://github.com/sponsors/TheClashFruit">
-    <img alt="Github Sponsors" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/GitHub%20-%20Circle.svg" height="48px">
-  </a>
-  <a href="https://ko-fi.com/TheClashFruit">
-    <img alt="Ko-Fi" src="https://raw.githubusercontent.com/TheClashFruit/TheClashFruit/main/social_icons/Ko-Fi%20-%20Circle.svg" height="48px">
-  </a>
+  -->
 </p>
 
 <p align="center">
   Copyright &copy; 2017-2024 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
+</p>
+
+<p align="center">
+  Hey feel free to support my caffine addiction on <a href="https://ko-fi.com/TheClashFruit">Ko-Fi</a> or <a href="https://github.com/sponsors/TheClashFruit">GitHub</a>. :D
 </p>
 
 <p align="center">

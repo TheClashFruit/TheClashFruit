@@ -1,7 +1,7 @@
 <h1 align="center">TheClashFruit</h1>
 
 <p align="center">
-  <a href="https://theclashfruit.me">Website</a> | <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a>
+  <a href="https://theclashfruit.me">Website</a> &middot; <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a> &middot; <a href="https://cdn.theclashfruit.me/shreenshot.webp">Useless Link</a>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  Copyright &copy; 2017-2025 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>
+  Copyright &copy; 2017-2025 <a href="https://bit.ly/3bgQPpC"><b>TheClashFruit</b></a>.
 </p>
 
 <p align="center">

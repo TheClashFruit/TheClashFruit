@@ -19,8 +19,14 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img width="49.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=[reviews,prs_merged,prs_merged_percentage]&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
-  <img width="47%" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=0f766eb3&icon_color=0f766eb3&title_color=0f766e&border_color=0f766eb3">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
+    <img width="49.5%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
+    <img width="47%" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
+  </picture>
 </p>
 
 <h2 align="center">Socials</h2>

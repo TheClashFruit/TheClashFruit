@@ -1,7 +1,7 @@
 <h1 align="center">TheClashFruit</h1>
 
 <p align="center">
-  <a href="https://theclashfruit.me">Website</a> &middot; <s><a href="https://git.theclashfruit.me">Self-Hosted Git Server</a></s> &middot; <a href="https://cdn.theclashfruit.me/shreenshot.webp">Useless Link</a>
+  <a href="https://theclashfruit.me">Website</a> &middot; <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a> &middot; <a href="https://cdn.theclashfruit.me/shreenshot.webp">Useless Link</a>
 </p>
 
 <p align="center">

@@ -20,14 +20,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mds.vercel.theclashfruit.me/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
-    <img width="49.5%" alt="GitHub Stats" src="https://mds.vercel.theclashfruit.me/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
+    <source media="(prefers-color-scheme: dark)" srcset="https://mds.theclashfruit.me/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
+    <img width="49.5%" alt="GitHub Stats" src="https://mds.theclashfruit.me/api?username=TheClashFruit&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mds.vercel.theclashfruit.me/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
-    <img width="47%" alt="Wakatime Stats" src="https://mds.vercel.theclashfruit.me/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
+    <source media="(prefers-color-scheme: dark)" srcset="https://mds.theclashfruit.me/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=E4E1E9&icon_color=BFC1FF&title_color=BFC1FF&border_color=46464F">
+    <img width="47%" alt="Wakatime Stats" src="https://mds.theclashfruit.me/api/wakatime?username=TheClashFruit&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&show=%5Breviews%2Cprs_merged%2Cprs_merged_percentage%5D&bg_color=00000000&text_color=1B1B21&icon_color=565992&title_color=565992&border_color=C7C5D0">
   </picture>
 </p>
+
+<p align="center">* I no longer use WakaTime.</p>
 
 <h2 align="center">Socials</h2>
 

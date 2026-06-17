@@ -1,7 +1,7 @@
 <h1 align="center">TheClashFruit</h1>
 
 <p align="center">
-  <a href="https://theclashfruit.me">Website</a> &middot; <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a> &middot; <a href="https://cdn.theclashfruit.me/shreenshot.webp">Useless Link</a>
+  <a href="https://theclashfruit.me">Website</a> <!--&middot; <a href="https://git.theclashfruit.me">Self-Hosted Git Server</a> -->&middot; <a href="https://cdn.theclashfruit.me/shreenshot.webp">Useless Link</a>
 </p>
 
 <p align="center">
@@ -65,7 +65,11 @@
 </p>
 
 <p align="center">
-  <a href="https://modrinth.com/resourcepack/pridepack">Download Gay Minecraft</a> <br>
+   🏳️‍🌈 <a href="https://modrinth.com/resourcepack/pridepack">Download Gay Minecraft</a> 🏳️‍⚧️ 
+</p>
+
+<!--
+  <br>
   I was forced to promote it: <br>
 
   <img align="center" alt="forced.png" src="https://github.com/TheClashFruit/TheClashFruit/assets/55049569/3a56f494-4e13-42d4-a1b5-64723c787c7f">
@@ -74,6 +78,4 @@
 <p align="center">
   🏳️‍⚧️
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=55049569)
-![](https://ipv4.games/claim?name=tcf)
+-->

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A student who's learning software development.
+  I do stuff, mainly Java/Kotlin with varius things like Android apps & game mods.
 </p>
 
 <p align="center">
